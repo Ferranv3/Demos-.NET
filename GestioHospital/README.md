@@ -2,11 +2,11 @@
 
 This project is made during the COVID-19 pandemy using Visual Basic .NET and SQL to take control about all the patients and the hospital workers.
 
-##Screenshots:
+## Screenshots:
 
-![Imagen aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/tree/master/GestioHospital/GestioHospitalVisualBasic.png)
+![Imagen aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospitalVisualBasic.PNG)
 
-![Imagen 2 aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/tree/master/GestioHospital/GestioHospital2VisualBasic.png)
+![Imagen 2 aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospital2VisualBasic.PNG)
 
 ## How to run
 Windows:
