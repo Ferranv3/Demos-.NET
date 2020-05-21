@@ -4,9 +4,7 @@ This project is made during the COVID-19 pandemy using Visual Basic .NET and SQL
 
 ## Screenshots:
 
-![Imagen aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospitalVisualBasic.PNG)
-
-![Imagen 2 aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospital2VisualBasic.PNG)
+![Imagen aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospitalVisualBasic.PNG) ![Imagen 2 aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospital2VisualBasic.PNG)
 
 ## How to run
 Windows:
